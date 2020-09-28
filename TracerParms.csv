@@ -1,0 +1,19 @@
+TracerNumber,Tracer,Units,Half-Life,travel time,Reference,Description,FlatName
+1,3H,in TU,12.32,Vary by UZ parm,"Lucas and Untwerger, 2000","Tritium, in tritium units",3H
+2,3He(trit),in TU,0,Vary by UZ parm,,"Tritiogenic Helium-3, in tritium units",3He_trit
+3,3Ho,in TU,0,Vary by UZ parm,,"Initial Tritium, in tritium units",3Ho
+4,3H/3Ho,ratio,0,Vary by UZ parm,,"Tritium / Initial tritium ratio, unitless",3H_3Ho
+5,SF6,in pptv,0,Constant,USGS CFC Laboratory,"Sulfur Hexafluoride, in parts per trillion by volume",SF6
+6,CFC-11,in pptv,0,Constant,USGS CFC Laboratory,"Chlorofluorocarbon-11, in parts per trillion by volume",CFC_11
+7,CFC-12,in pptv,0,Constant,USGS CFC Laboratory,"Chlorofluorocarbon-12, in parts per trillion by volume",CFC_12
+8,CFC-13,in pptv,0,Constant,USGS CFC Laboratory,"Chlorofluorocarbon-13, in parts per trillion by volume",CFC_13
+9,CFC-113,in pptv,0,Constant,USGS CFC Laboratory,"Chlorofluorocarbon-113, in parts per trillion by volume",CFC_113
+10,SF5CF3,in pptv,0,Constant,USGS CFC Laboratory,"Trifluoromethyl sulfur pentafluoride, in parts per trillion by volume",SF5CF3
+11,85Kr,in dpm/cc,10.76,Constant,,"Krypton-85, in disintegrations per minute per cubic centimeter",85Kr
+12,39Ar,in percent modern,269,Constant,Corcho-Alvorado_2007,"Argon-39, in percent modern argon",39Ar
+13,14C,in pmC,5730,Vary by UZ parm,Modern half-life of 14C,"Carbon-14, in percen modern carbon -- reconstructed 14C curve for last 50,000 yrs",14C
+14,4He,cc@STP/gH2O,0,Constant,"Andrews and Lee, 1979","Radiogenic Helium-4, in cubic centimeters at STP per gram of water",4He
+15,81Kr,in percent modern,229000,Constant,"Lu et al., 2012; Tracer applications of noble gas radionuclides in the geosciences","Krypton-81, in percent modern krypton",81Kr
+16,NO3-N,in mg/L as N,693.1471806,Vary by UZ parm,"McMahon and others, 2008",Denitrification rate constant of Modesto area groundwater = 0.001/yr,NO3_N
+17,C_Co_1980,unitless,0,Vary by UZ parm,,"Normalized conservative tracer, Unit pulse beginning in 1980",C_Co_1980
+18,MESA,unitless,0,Vary by UZ parm,,MESA stereoisomer ratios,MESA
